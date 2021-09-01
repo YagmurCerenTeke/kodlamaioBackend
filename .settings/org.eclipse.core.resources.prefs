@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/kodlamaiobackend/Main.java=UTF-8
+encoding//src/kodlamaiobackend/dataAccess/concretes/CategoryDao.java=UTF-8
+encoding//src/kodlamaiobackend/dataAccess/concretes/CourseDao.java=UTF-8
